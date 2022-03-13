@@ -348,14 +348,14 @@ a:hover {
   text-align: center;
 }
 
-@media (max-width: 754px) {
+/* @media (max-width: 754px) {
   .input {
     margin-left: 0;
     display: block;
     border: none;
     background: none;
   }
-}
+} */
 
 .container {
   max-width: 1170px;
